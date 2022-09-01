@@ -10,7 +10,7 @@ The repository includes the following artifacts:
 
 ## Public Dataset
 
-The OCBug data set can be accessed by [HERE](https://github.com/ocbug/ocbug/tree/main/dataset)
+The OCBug data set can be accessed by [HERE](https://github.com/ocbug/Parachute/tree/main/dataset)
 
 ## How to use Parachute:
 
