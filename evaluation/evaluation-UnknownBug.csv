@@ -1,0 +1,18 @@
+Software,New Bug ID,Affected Versions,Status,Type,Internal Effect Detection,External Effect Detection,Staccato
+Mysql,1,v5.7-latest,Confirmed,R2-2,no,yes,no
+Mysql,2,v5.7-latest,Confirmed,R2-2,no,yes,no
+Mysql,3,v5.7-latest,Confirmed,R2-2,no,yes,no
+Mysql,4,v5.7-latest,Confirmed,R1-3,yes,yes,yes
+Mysql,5,v5.7,Confirmed,R2-2,no,yes,no
+Mysql,6,v5.7,Confirmed,R2-2,no,yes,no
+Mysql,7,v5.7,Confirmed,R2-1,no,yes,no
+Redis,1,v6.2-v7.0,Fixed,R1-2,yes,no,no
+Squid,1,v5.0-latest,Pending,R1-3,yes,no,yes
+Squid,2,v5.0-latest,Pending,R1-3,yes,no,yes
+Postgresql,1,v14.2-latest,Confirmed,R1-3,yes,no,yes
+Mariadb,1,v10.3-latest,Fixing,R2-2,no,yes,no
+Mariadb,2,v10.3-latest,Fixing,R2-2,no,yes,no
+,,,,,,,
+,"Note: the new bug ID is hidden for double-blind review, and will be public after the paper is accepted.",,,,,,
+,,,,,,,
+
